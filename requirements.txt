@@ -1,0 +1,10 @@
+pandas==2.3.3
+numpy==2.4.1
+catboost==1.2.10
+scikit-learn==1.8.0
+fastapi==0.135.2
+pydantic==2.12.5
+uvicorn==0.42.0
+requests==2.32.5
+scapy==2.7.0
+flet==0.84.0
